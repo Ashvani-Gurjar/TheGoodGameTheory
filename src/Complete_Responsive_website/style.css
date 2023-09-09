@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Mulish&family=Piazzolla:opsz,wght@8..30,200;8..30,300;8..30,400;8..30,900&display=swap');
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Mulish', sans-serif;
+}
+.navbar{
+     background-color: rgb(213 197 220) !important ;
+}
+.navbar-brand{
+     font-size: 1.9rem !important;
+     color: #565387 !important
+}
+.navbar-nav{
+     margin-left: auto;
+}
+.navbar a{
+     font-size: 1.3rem;
+     text-transform: capitalize;
+
+}
+.menu_active{
+     font-weight: bold !important;
+     border-bottom: 1px solid #565387 !important;
+}
+.navbar a:hover{
+     color: #3498db !important;
+}
+
+@media (max-width:991px) {
+     .navbar-brand{
+          font-size: 1.5rem !important;
+     }
+     .menu_active{
+          font-weight: bold;
+          border-bottom: none;
+     }
+}
+.card{
+     border: 3px solid black;
+     border-radius: 23px;
+}
+
+/* dfldsfsjdklf */
+.foo{
+     background-color: rgb(213 197 220) !important;
+}
+.foot{
+     margin-top: 16.5%;
+}
