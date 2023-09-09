@@ -1,7 +1,5 @@
 import React from 'react';
 import Card from './Cards';
-import Navbar from './Navbar';
-import Footer from './Footer';
 
 const url = 'https://api.punkapi.com/v2/beers?page=1&per_page=9';
 const responce = await fetch(url);
