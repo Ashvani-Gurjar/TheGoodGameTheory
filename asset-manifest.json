@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheGoodGameTheory/static/css/main.79e74651.css",
+    "main.js": "/TheGoodGameTheory/static/js/main.d8447ed9.js",
+    "index.html": "/TheGoodGameTheory/index.html",
+    "main.79e74651.css.map": "/TheGoodGameTheory/static/css/main.79e74651.css.map",
+    "main.d8447ed9.js.map": "/TheGoodGameTheory/static/js/main.d8447ed9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e74651.css",
+    "static/js/main.d8447ed9.js"
+  ]
+}
